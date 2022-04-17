@@ -1,3 +1,27 @@
+
+nav.navbar.navbar-expand-lg.bg-light.navbar-light div.container a{
+    color: #918C8E
+}
+// CAMBIAR COLOR DE LAS OPCIONES DEL NAV
+
 .navbar-brand-tamaño {
     font-size: 2rem;
+}
+
+.addPadding {
+    padding-right: 1.2rem;
+}
+
+
+// AGREGAR UN BORDER GRIS AL LENGUAJE Y PONERLE UN GRIS A LA TIPOGRAFÍA
+
+
+
+ul.navbar-nav li.nav-item a.nav-link.btn.success2 {
+    color: white;
+    border: 1px, solid, #10d56d;
+    background: #10d56d;
+    border-radius: 25px;
+    width: 150px;
+    height: 2.8rem;
 }
