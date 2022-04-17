@@ -1,3 +1,10 @@
+@charset "UTF-8";
+body {
+  font-family: "Roboto", sans-serif;
+}
 
+.navbar-brand-tamaño {
+  font-size: 2rem;
+}
 
 /*# sourceMappingURL=style.css.map */
