@@ -1,14 +1,26 @@
-@charset "UTF-8";
 body {
   font-family: "Roboto", sans-serif;
 }
 
-nav.navbar.navbar-expand-lg.bg-light.navbar-light div.container a {
+a.navbar-brand.navbar-brand-tamano {
+  color: black;
+}
+
+.navbar-brand-tamano {
+  font-size: 2rem;
+}
+
+a.nav-link {
   color: #918C8E;
 }
 
-.navbar-brand-tamaño {
-  font-size: 2rem;
+button.btn.dropdown-toggle.buttBorder {
+  border: 1px solid #918c8e27;
+  border-radius: 25px;
+}
+
+button.btn.dropdown-toggle {
+  color: #918C8E;
 }
 
 .addPadding {
@@ -17,7 +29,7 @@ nav.navbar.navbar-expand-lg.bg-light.navbar-light div.container a {
 
 ul.navbar-nav li.nav-item a.nav-link.btn.success2 {
   color: white;
-  border: 1px, solid, #10d56d;
+  border: 1px solid #10d56d;
   background: #10d56d;
   border-radius: 25px;
   width: 150px;
