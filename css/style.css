@@ -10,7 +10,15 @@ a.navbar-brand.navbar-brand-tamano {
   font-size: 2rem;
 }
 
+button.navbar-toggler span.navbar-toggler-icon {
+  color: red;
+}
+
 a.nav-link {
+  color: #918C8E;
+}
+
+a.nav-link:hover {
   color: #918C8E;
 }
 
@@ -34,6 +42,34 @@ ul.navbar-nav li.nav-item a.nav-link.btn.success2 {
   border-radius: 25px;
   width: 150px;
   height: 2.8rem;
+}
+
+.h1Size {
+  font-size: 4rem;
+}
+
+.pProperties {
+  color: #444344;
+}
+
+ul.ulIndexProperties {
+  flex-direction: row;
+}
+
+li.liIndexProperties {
+  padding-top: 1.5rem;
+}
+
+a.outlineSuccess2 {
+  color: #10d56d;
+  border: 1px solid #10d56d;
+  border-radius: 25px;
+  width: 150px;
+  height: 2.8rem;
+}
+
+a.outlineSuccess2:hover {
+  color: #10d56d;
 }
 
 /*# sourceMappingURL=style.css.map */
