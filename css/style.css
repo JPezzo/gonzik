@@ -72,4 +72,25 @@ a.outlineSuccess2:hover {
   color: #10d56d;
 }
 
+h2.trustedClients {
+  font-size: 1rem;
+  padding-top: 4rem;
+  padding-bottom: 2.5rem;
+  color: #918c8e9a;
+}
+
+h2.whatWeDo {
+  padding-top: 8rem;
+  padding-bottom: 1rem;
+}
+
+p.p3Index {
+  color: #444344c9;
+}
+
+p.p3IndexBottom {
+  color: #444344c9;
+  padding-bottom: 4rem;
+}
+
 /*# sourceMappingURL=style.css.map */
